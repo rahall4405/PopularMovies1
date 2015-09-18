@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/rahall/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.0/7ff0e000d1e27e356567f56c92af3b8ab912636f/picasso-2.5.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="/home/rahall/android_nanodegree_projects/PopularMovies1/app/build/intermediates/pre-dexed/debug/picasso-2.5.0-721728a8ab4603ceeceaf68387dc87034fadfdf3.jar" />
+    </item>
+    <item
+        jar="/home/rahall/android_nanodegree_projects/PopularMovies1/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/rahall/android_nanodegree_projects/PopularMovies1/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-19e38591eb781ec68bda1e40605616ce13ac9b8f.jar" />
+    </item>
+    <item
+        jar="/home/rahall/adt/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/rahall/android_nanodegree_projects/PopularMovies1/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-1dc829ebc3189add6d6c53ed5e20e6212c80e8ed.jar" />
+    </item>
+    <item
+        jar="/home/rahall/android_nanodegree_projects/PopularMovies1/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/rahall/android_nanodegree_projects/PopularMovies1/app/build/intermediates/pre-dexed/debug/classes-491c01a685b5a42614e51bb57b8b55d6c676e6fb.jar" />
+    </item>
+    <item
+        jar="/home/rahall/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/home/rahall/android_nanodegree_projects/PopularMovies1/app/build/intermediates/pre-dexed/debug/gson-2.3.1-42826f729fd2df6a2ee8c29c5b873235bced3811.jar" />
+    </item>
+    <item
+        jar="/home/rahall/android_nanodegree_projects/PopularMovies1/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/home/rahall/android_nanodegree_projects/PopularMovies1/app/build/intermediates/pre-dexed/debug/classes-b7e423bed98c1dd8b4e06ab2d51e1354de198e63.jar" />
+    </item>
+    <item
+        jar="/home/rahall/android_nanodegree_projects/PopularMovies1/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c9e0c6fc22b22b96d0db564cf073ab6f288bb758">
+        <dex dex="/home/rahall/android_nanodegree_projects/PopularMovies1/app/build/intermediates/pre-dexed/debug/classes-12c6567a3e070be02a5e221ff5e015be04500aab.jar" />
+    </item>
+    <item
+        jar="/home/rahall/android_nanodegree_projects/PopularMovies1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/rahall/android_nanodegree_projects/PopularMovies1/app/build/intermediates/pre-dexed/debug/classes-041ab63e489ad631b45f8422a5d068a09255f7e4.jar" />
+    </item>
+    <item
+        jar="/home/rahall/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.11/cc0e75df30613111ea9b6bfdb4d81527527f2611/library-1.0.11.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cc0e75df30613111ea9b6bfdb4d81527527f2611">
+        <dex dex="/home/rahall/android_nanodegree_projects/PopularMovies1/app/build/intermediates/pre-dexed/debug/library-1.0.11-0f99ab0d717c20af7d5441190ec58836cb86039f.jar" />
+    </item>
+
+</items>

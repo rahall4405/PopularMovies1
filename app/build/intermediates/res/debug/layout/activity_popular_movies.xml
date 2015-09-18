@@ -1,0 +1,14 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PopularMovies">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/movie_image_recyclerview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+
+</RelativeLayout>
+<!-- From: file:/home/rahall/android_nanodegree_projects/PopularMovies1/app/src/main/res/layout/activity_popular_movies.xml -->
