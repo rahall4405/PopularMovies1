@@ -6,7 +6,8 @@
 This first version of Popular Movies is optimized only for phones.
 
 ##Libraries
-
+- [Picasso](http://square.github.io/picasso) for loading images.
+- [Volley](https://android.googlesource.com/platform/frameworks/volley)  for network requests.
 
 
 ##License
