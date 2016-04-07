@@ -15,6 +15,11 @@ This first version of Popular Movies is optimized only for phones.
 - [Picasso](http://square.github.io/picasso) for loading images.
 - [Volley](https://android.googlesource.com/platform/frameworks/volley)  for network requests.
 
+##Installation 
+Download the zip file and extract the contents.  From Android Studio, File - New  - Import Project. Then navigate to the top level of the PopularMovies1 project and click Ok.  An API Key needs to be downloaded from this link:[https://www.themoviedb.org/account/signup] (https://www.themoviedb.org/account/signup).
+Add the Key to the following entry in the utilies/HttpHelper.java file in the project:
+
+private static final String key = "";
 
 ##License
 
@@ -28,11 +33,11 @@ All libraries used are licensed under their own licensing agreement.
 ##Images
 
 
-![](./app/src/main/res/drawable/device-2016-04-05-203118.png "")
+![](./app/src/main/res/drawable/device203118.png "")
 
-![](./app/src/main/res/drawable/device-2016-04-05-203334.png "")
+![](./app/src/main/res/drawable/device203334.png "")
 
-![](./app/src/main/res/drawable/device-2016-04-05-203506.png "")
+![](./app/src/main/res/drawable/device203506.png "")
 
-![](./app/src/main/res/drawable/device-2016-04-05-203520.png "")
+![](./app/src/main/res/drawable/device203520.png "")
 
