@@ -19,7 +19,7 @@ This first version of Popular Movies is optimized only for phones.
 Download the zip file and extract the contents.  From Android Studio, File - New  - Import Project. Then navigate to the top level of the PopularMovies1 project and click Ok.  An API Key needs to be downloaded from this link:[https://www.themoviedb.org/account/signup] (https://www.themoviedb.org/account/signup).
 Add the Key to the following entry in the utilies/HttpHelper.java file in the project:
 
-private static final String key = "";
+`private static final String key = "";`
 
 ##License
 
