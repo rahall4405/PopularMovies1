@@ -19,11 +19,5 @@ Unless required by applicable law or agreed to in writing, software distributed 
 
 All libraries used are licensed under their own licensing agreement.
 
-##Images
 
-
-![](./app/src/main/res/drawable/device-2016-04-05-203118.png "")
-![](./app/src/main/res/drawable/device-2016-04-05-203334.png "")
-![](./app/src/main/res/drawable/device-2016-04-05-203506.png "")
-![](./app/src/main/res/drawable/device-2016-04-05-203520.png "")
 
