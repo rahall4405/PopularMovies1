@@ -1,5 +1,11 @@
 # PopularMovies1
+This Android Developer Nanodegree project uses the themovieDB API to display movie information about popular and critically acclaimed movies. 
 ##Objectives
+- Movies are displayed in the main layout via a grid of their corresponding movie poster thumbnails.
+- UI contains an element (i.e a spinner or settings menu) to toggle the sort order of the movies by: most popular and highest rated.
+- UI contains a screen for displaying the details for a selected movie.
+
+- Movie details layout contains title, release date, movie poster, vote average, and plot synopsis.
 
 ##Issues
 
@@ -19,5 +25,14 @@ Unless required by applicable law or agreed to in writing, software distributed 
 
 All libraries used are licensed under their own licensing agreement.
 
+##Images
 
+
+![](./app/src/main/res/drawable/device-2016-04-05-203118.png "")
+
+![](./app/src/main/res/drawable/device-2016-04-05-203334.png "")
+
+![](./app/src/main/res/drawable/device-2016-04-05-203506.png "")
+
+![](./app/src/main/res/drawable/device-2016-04-05-203520.png "")
 
